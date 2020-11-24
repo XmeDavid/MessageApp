@@ -1,0 +1,2 @@
+C:\Projects\C#\MessageApp\MessageApp\bin\Release\FinalVersions\1.0.0\MessageApp.pdb
+C:\Projects\C#\MessageApp\MessageApp\bin\Release\FinalVersions\1.0.0\MessageApp.exe

@@ -1,0 +1,2 @@
+C:\Projects\C#\MessageApp\MessageApp\bin\Release\netcoreapp3.1\publish\MessageApp.pdb
+C:\Projects\C#\MessageApp\MessageApp\bin\Release\netcoreapp3.1\publish\MessageApp.exe
